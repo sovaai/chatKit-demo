@@ -10,8 +10,10 @@ Before you start working with ChatKit, the following software must be installed 
 * **NPM**. Instruction manual is [here](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm).  
 
 ## Install
-```git clone git@github.com:sovaai/...........
-npm install```
+```
+git clone git@github.com:sovaai/...........   
+npm install
+```  
 
 ## Start
 `npm run start`
