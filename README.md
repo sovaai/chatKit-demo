@@ -10,6 +10,7 @@
 * **Git**. Instruction manual is [here](https://git-scm.com/downloads).  
 * **Node.js**. Instruction manual is [here](https://nodejs.org/en/download/).  
 * **NPM**. Instruction manual is [here](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm).  
+
 После того, как вышеуказанное ПО будет установлено, необходимо перейти к шагу "Install" и "Start"
 
 ## Install
