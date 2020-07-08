@@ -16,7 +16,7 @@
 ## Install
 Для установки chatKit-demo введите следующую команду в терминал:
 ```
-git clone git@github.com:sovaai/...........   
+git clone git@github.com:sovaai/...........
 npm install
 ```  
 
