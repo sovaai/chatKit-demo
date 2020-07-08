@@ -22,4 +22,4 @@ npm install
 
 ## Start
 Для запуска chatKit-demo введите следующую команду в терминал:   
-`npm run start`
+```npm run start```
