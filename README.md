@@ -1,27 +1,29 @@
 ## Description
-Демо Chat Kit - ознакомительная версия, которая дает полное представление о том, что представляет собой виджет виджет: дефолтная схема оформлени, возможности виджета.   
-Для запуска виджета потребуется всего несколько шагов и пара минут свободного времени. В результате вы получите работоспособный виджет.
-Видео/картинку/наглядное представление можно увидеть здесь: [CK dev](https://github.com/sovaai/chatKit);   
-Чтобы внести какие-либо изменения в виджет и начать собственную разраборку: [CK dev](https://github.com/sovaai/chatKit);   
-Демо-версия использует дефолтные данные [библиотеки](https://github.com/sovaai/chatKit-lib).
+The Chat Kit demo is a trial version that gives a complete idea of the widget is: a default design scheme, capabilities.   
+It takes only a few steps and a couple of minutes to run the widget. The result is a workable widget.
+
+Video/picture/visual representation can be seen here: [CK dev](https://github.com/sovaai/chatKit);  
+To make any changes to the widget and start your own development: [CK dev](https://github.com/sovaai/chatKit).  
+Demo version uses default [data](https://github.com/sovaai/chatKit-lib).
+
 
 ## Requirements
-Прежде чем приступить к ознакомлению с демо-версией ChatKit, вам необходимо установить на ПК следующее ПО:
+Before you start using the demo version of ChatKit, you need to install this software on your PC:
 * **Git**. Instruction manual is [here](https://git-scm.com/downloads);   
 * **Node.js**. Instruction manual is [here](https://nodejs.org/en/download/);   
 * **NPM**. Instruction manual is [here](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm).  
 
-После того, как вышеуказанное ПО будет установлено, необходимо перейти к шагу "Install" и "Start"
+After that you can go to steps "Install" and "Start".
 
 ## Install
-Для установки chatKit-demo введите следующую команду в терминал:
+For install chatKit-demo enter next command in the terminal:
 ```
 git clone git@github.com:sovaai/...........
 npm install
 ```  
 
-## Start
-Для запуска chatKit-demo введите следующую команду в терминал:   
+## Quick start
+For quick chatKit-demo enter next command in the terminal:  
 ```
 npm run start
 ```
